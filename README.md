@@ -1,2 +1,2 @@
 # dwm
-my fork of suckless dwm
+My fork of suckless dwm.
